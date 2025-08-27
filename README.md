@@ -14,3 +14,6 @@ c/c++ python
   <img border="0" src="pic/bilibili.png" alt="bilibili" width="30" height="30"> My bilibili</a>
 - <a href="https://www.luogu.com.cn/user/1649366" target="_blank" rel="noopener">
   <img border="0" src="pic/luogu.png" alt="luogu" width="30" height="30"> My Luogu</a>
+- <a href="https://whyqzz.fun" target="_blank" rel="noopener">
+  <img border="0" src="pic/blog.png" alt="blog" width="30" height="30"> My Blog</a>
+  
